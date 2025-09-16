@@ -29,7 +29,7 @@ Deploy an **EasyStack Load Balancer** in front of two Nginx backend servers to p
 
 ## 3. Architecture Overview
 
-![Basic Topology](lb-topology.png)
+![Basic Topology](media/lb-topology.png)
 
 The load balancer sits at the front, routing client requests to the backend servers based on the configured balancing algorithm.
 
@@ -80,10 +80,10 @@ The load balancer sits at the front, routing client requests to the backend serv
 ## 6. Monitoring and Test Results
 
 * **System Monitoring Dashboard**
-  ![Monitoring](system-monitoring.png)
+  ![Monitoring](media/system-monitoring.png)
 
 * **Listener-Level Traffic Monitoring**
-  ![Traffic](listener-monitoring.png)
+  ![Traffic](media/listener-monitoring.png)
 
 * **Demo:**
 
